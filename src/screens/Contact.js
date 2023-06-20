@@ -49,7 +49,7 @@ const Contact = ({ navigation }) => {
         <Text style={styles.labels}> Enter your name </Text>
         <TextInput
           style={styles.inputStyle}
-          placeholder={"vinod thapa"}
+          placeholder={"ritwik sinha"}
           value={name}
           onChangeText={(userdata) => setName(userdata)}
         />
@@ -59,7 +59,7 @@ const Contact = ({ navigation }) => {
         <Text style={styles.labels}> Enter your Email </Text>
         <TextInput
           style={styles.inputStyle}
-          placeholder={"demo@thapa.com"}
+          placeholder={"demo@ritwik.com"}
           value={email}
           onChangeText={(email) => setEmail(email)}
         />
@@ -69,7 +69,7 @@ const Contact = ({ navigation }) => {
         <Text style={styles.labels}> Enter your mobile </Text>
         <TextInput
           style={styles.inputStyle}
-          placeholder={"vinod thapa"}
+          placeholder={"ritwik sinha"}
           value={phone}
           onChangeText={(phone) => setPhone(phone)}
         />

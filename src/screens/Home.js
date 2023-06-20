@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
   },
 
   paraStyle: {
-    textAlign: "left",
+    textAlign: "center",
     fontSize: 18,
     color: "#7d7d7d",
     marginTop: 30,

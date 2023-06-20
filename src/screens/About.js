@@ -23,8 +23,8 @@ const About = () => {
 
   return (
     <View style={styles.aboutContainer}>
-      <Text style={styles.mainHeader}> Vinod bahadur thapa </Text>
-      <Text style={styles.paraStyle}> I am a full stack developer 😀 </Text>
+      <Text style={styles.mainHeader}> Ritwik Sinha </Text>
+      <Text style={styles.paraStyle}> I am a Software Developer 😀 </Text>
 
       <View>
         <Image
